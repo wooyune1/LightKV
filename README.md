@@ -97,7 +97,7 @@ sequenceDiagram
 
 ## 核心特性
 
-- 🚀 高性能：RocksDB 存储引擎 + Bloom Filter 优化
+- 🚀 高性能：RocksDB 存储引擎 + Bloom Filter 优化。
 - 💪 强一致性：写前日志 + 同步复制机制
 - 📈 可扩展性：一致性哈希实现水平扩展
 - 🛡️ 高可用性：自动故障转移 + 数据多副本
